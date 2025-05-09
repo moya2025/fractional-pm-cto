@@ -12336,8 +12336,6 @@ $jscomp.polyfill = function (e, r, p, m) {
   Range.init($('input[type=range]'));
 })(cash, M.anime);
 
-$('#modal1').openModal();
-$('#modal2').openModal();
 
 
 
